@@ -1,0 +1,17 @@
+{
+    "name": "domine-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Impallari Type"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/domine-bower.git"
+    },
+    "description": "Domine font",
+    "keywords": [
+        "font",
+        "SERIF"
+    ]
+}
